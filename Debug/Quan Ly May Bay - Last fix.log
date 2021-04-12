@@ -1,0 +1,42 @@
+﻿  AirplaneTP.cpp
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\AirplaneTP.cpp(235,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\AirplaneTP.cpp(236,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\AirplaneTP.cpp(245,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\AirplaneTP.cpp(246,6): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConstraintTP.cpp
+  DataTimeTP.cpp
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\DataTimeTP.cpp(11,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\DataTimeTP.cpp(39,12): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FlightTP.cpp
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\FlightTP.cpp(672,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\FlightTP.cpp(674,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\FlightTP.cpp(675,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyLibraryTP.cpp
+  PassengerTP.cpp
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(329,15): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(330,15): warning C4018: '>': signed/unsigned mismatch
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(429,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(430,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(364,6): warning C4101: 'signal': unreferenced local variable
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(765,7): warning C4101: 'DeleteOrNot': unreferenced local variable
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(942,7): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(882,11): warning C4101: 'DT': unreferenced local variable
+  ProcessionTP.cpp
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(125,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(126,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(206,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(207,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(284,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(285,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(289,8): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(290,18): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\ProcessionTP.cpp(291,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Source.cpp
+  UserInterfaceTP.cpp
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\UserInterfaceTP.cpp(229,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\UserInterfaceTP.cpp(224,6): warning C4101: 'signal': unreferenced local variable
+  Generating Code...
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(286): warning C4715: 'FindPassenger': not all control paths return a value
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\PassengerTP.cpp(255): warning C4715: 'RemovePassenger': not all control paths return a value
+D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\FlightTP.cpp(186): warning C4715: 'RemoveEnding': not all control paths return a value
+  Quan Ly May Bay - Last fix.vcxproj -> D:\Downloads\Get Programming\1-7 - Quan Ly May Bay - TheLastOfUltimate\Quan Ly May Bay - Release\Debug\Quan Ly May Bay - Last fix.exe
