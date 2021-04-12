@@ -5,6 +5,7 @@ Nhắc đến học IT ở PTIT mà hông nhắc tới môn này thì thật là
 Đây là đồ án quản lý máy bay kì 2 năm 2 (2020)Môn cấu trúc dữ liệu và giải thuật do thầy Lưu Nguyễn Kì Thư dạy lớp mình.
 
 Đây thực sự là môn mà mình thấy khó nhất trường PTIT này.Qua môn phải nói là siêu ít lớp mình có 83 người thì tầm khoảng 20 người qua là hết cỡ (><)(NÓI CHUNG LÀ TOANG )
+Chả thế mà nhiều thế hệ gắn ổng cái nick name Lưu Mãi Kì Thi cũng đúng
 
 Mình chia sẻ phần đồ này hi vọng giúp các tân binh khóa sau có thể vượt qua môn này dễ nhất . Đồ án này gồm nhiều thành phần và thư viện được tích hợp thành 1 bài hoàn chỉnh
 
