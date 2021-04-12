@@ -11,14 +11,23 @@ Mình chia sẻ phần đồ này hi vọng giúp các tân binh khóa sau có t
 
 Để tham khảo bài mình hiệu quả các bạn hãy đọc code theo trình tự như sau và xem hình ảnh demo để hình dung các bạn sẽ làm gì 
 ( do thời điểm mình viết là 12-04-2021 , lúc này kì 2 năm 3 rồi nên có thể không nhớ chính xác trình tự ^^ )
+
 1.MyLibraryTP - thư viện mẫu chứa các hàm để vẽ điểm , thay đổi màu sắc , nói chung là muốn vẽ trên cosole thì phải có như viện này  blah...blah
+
 2.UserInterfaceTP - chỗ này mình dùng để dựng lên menu và gắn các nút mũi tên để di chuyển lên xuống giữa các các tùy chọn
+
 3.GlobalVariableTP - lưu toàn bộ biến toàn cuc
+
 4.ConstraintTP - các ràng buộc được xây dựng ,ví dụ như nhập tên người thì không có được ghi số , số điện thoại thì hông được ghi chữ cái ...vân vân và mây mây
+
 5.AirplaneTP - xử lý cho việc tạo thêm - xóa - sửa máy bay 
+
 6.FlightTP - xử lý cho việc tạo - thêm - xóa - sửa chuyến bay
+
 7.DataTimeTP - xử lý ngày giờ
+
 8.PassengerTP - chứa thông tin của 1 hành khách , phục vụ cho việc đặt vé
+
 9.ProcessionTP - phần kết của đồ án, chủ yếu làm cho màu mè chứ không có cũng chẳng sao ^^,trong này viết các hàm đọc file để hiện lên phần intro và outro cho đồ án
 nhưng thầy cũng không để ý phần này nhìu đâu nha ^^
 
