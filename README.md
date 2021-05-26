@@ -33,7 +33,7 @@ nhưng thầy cũng không để ý phần này nhìu đâu nha ^^
 
 Mình hy vọng đồ án này có thể giúp các bạn khóa sau có thể vượt qua môn này dễ dàng nhất có thể ( vì môn này khó vl , mình cũng làm vỡ mặt mới qua ^^ ).
 
-Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì bạn hoàn toàn có thể theo đuổi ngành IT nha.Nhiều bạn kêu thầy khó 
+Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì tương lai với ngành này của bạn rất triển vọng nha.Nhiều bạn kêu thầy khó 
 nhưng thực ra thì thầy làm vậy là tốt cho chúng mình á , các bạn đừng oán thầy nha.
 Chúc các bạn khóa sau khi đọc được bài này của mình nhiều may mắn và sức khỏe nha - Mon,12-04-2021
 
