@@ -36,3 +36,38 @@ Mình hy vọng đồ án này có thể giúp các bạn khóa sau có thể v�
 Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì bạn hoàn toàn có thể theo đuổi ngành IT nha.Nhiều bạn kêu thầy khó 
 nhưng thực ra thì thầy làm vậy là tốt cho chúng mình á , các bạn đừng oán thầy nha.
 Chúc các bạn khóa sau khi đọc được bài này của mình nhiều may mắn và sức khỏe nha - Mon,12-04-2021
+
+MỘT SỐ HÌNH ẢNH MINH HỌA!
+
+1)Màn hình intro nè !!
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_Z2FPblh3oM" src="https://user-images.githubusercontent.com/58034430/119598518-4d8ef980-be0d-11eb-9e9b-b1ddf40dc94b.png">
+
+
+2)Màn hình menu chính
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_BmTWFPVOLY" src="https://user-images.githubusercontent.com/58034430/119598488-3d771a00-be0d-11eb-8cb1-d41b99b7a7b0.png">
+
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_BrvBxJQm89" src="https://user-images.githubusercontent.com/58034430/119598541-58e22500-be0d-11eb-9bd6-c5d0698b5461.png">
+
+3)Màn hình quản lý máy bay
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_Q1LQEK0fdW" src="https://user-images.githubusercontent.com/58034430/119598662-8e870e00-be0d-11eb-978b-7ad826aa584f.png">
+
+4)Màn hình quản lý hành khách
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_9S3QPTXLuI" src="https://user-images.githubusercontent.com/58034430/119598675-93e45880-be0d-11eb-896e-45a2f964e8b4.png">
+
+5)Màn hình kiểm tra thông tin chuyến bay
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_uavjIiuqdC" src="https://user-images.githubusercontent.com/58034430/119598723-aced0980-be0d-11eb-8cb3-912017767d5f.png">
+
+6)Màn hình danh sách hành khách của chuyến bay 
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_YLjx8ojtSd" src="https://user-images.githubusercontent.com/58034430/119598771-c2623380-be0d-11eb-9e90-514c14b84073.png">
+
+7)Màn hình liệt kê số chuyến bay đã thực hiện
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_rY5Jjq4VoX" src="https://user-images.githubusercontent.com/58034430/119598801-d312a980-be0d-11eb-979c-7ec205041a5d.png">
+
+8)Màn hình sơ đồ chỗ ngồi , đặt vé
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_8zuCtrJ5ee" src="https://user-images.githubusercontent.com/58034430/119598899-0d7c4680-be0e-11eb-82ce-accb575c2703.png">
+
+9)Màn hình kết thúc
+<img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_iopZYOlSQ5" src="https://user-images.githubusercontent.com/58034430/119598925-1d942600-be0e-11eb-9fca-ad51b96a8d3e.png">
+
+
+Mình viết chương trình này trên Visual Ultimate Code 2010 nhưng mình đã cập nhật lại core của ngôn ngữ C++ mới nhất.Nên các bạn hoàn toàn có thể an tâm tải về lại chạy được ngay nha （￣︶￣）↗　
