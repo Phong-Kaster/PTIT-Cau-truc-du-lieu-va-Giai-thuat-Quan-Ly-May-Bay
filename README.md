@@ -70,4 +70,4 @@ MỘT SỐ HÌNH ẢNH MINH HỌA!
 <img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_iopZYOlSQ5" src="https://user-images.githubusercontent.com/58034430/119598925-1d942600-be0e-11eb-9fca-ad51b96a8d3e.png">
 
 
-Mình viết chương trình này trên Visual Ultimate Code 2010 nhưng mình đã cập nhật lại core của ngôn ngữ C++ mới nhất.Nên các bạn hoàn toàn có thể an tâm tải về lại chạy được ngay nha （￣︶￣）↗　
+Mình viết chương trình này trên Visual Ultimate Code 2010 nhưng mình đã cập nhật lại core của ngôn ngữ C++ mới nhất.Nên các bạn hoàn toàn có thể an tâm tải về chạy được trên Visual Studio 2019 ( phiên bản mới nhất thời điểm mình viết ) ngay nha （￣︶￣）↗　
