@@ -51,7 +51,7 @@ MỘT SỐ HÌNH ẢNH MINH HỌA!
 3)Màn hình quản lý máy bay
 <img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_Q1LQEK0fdW" src="https://user-images.githubusercontent.com/58034430/119598662-8e870e00-be0d-11eb-978b-7ad826aa584f.png">
 
-4)Màn hình quản lý hành khách
+4)Màn hình quản lý chuyến bay
 <img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_9S3QPTXLuI" src="https://user-images.githubusercontent.com/58034430/119598675-93e45880-be0d-11eb-896e-45a2f964e8b4.png">
 
 5)Màn hình kiểm tra thông tin chuyến bay
