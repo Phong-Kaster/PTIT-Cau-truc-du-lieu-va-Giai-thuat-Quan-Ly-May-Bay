@@ -116,8 +116,10 @@ Câu này khó vl .Mình trả lời được 1 nửa đầu , nửa sau thì kh
 # [**Post Script**](#post-script)
 Mình hy vọng đồ án này có thể giúp các bạn khóa sau có thể vượt qua môn này dễ dàng nhất có thể ( vì môn này khó vl , mình cũng làm vỡ mặt mới qua ^^ ).
 
-Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì tương lai với ngành này của bạn rất triển vọng nha.Nhiều bạn kêu thầy khó 
-nhưng thực ra thì thầy làm vậy là tốt cho chúng mình á , các bạn đừng oán thầy nha.
+Nếu đồ án & phần chú thích của mình giúp ích cho các bạn thì đừng ngần ngại tặng mình một ⭐ nha.
+
+Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì tương lai với ngành này của bạn rất triển vọng nha.Nhiều bạn kêu thầy khó.
+Nhưng thực ra thì thầy làm vậy là tốt cho chúng mình á , các bạn đừng oán thầy nha.
 Chúc các bạn khóa sau khi đọc được bài này của mình nhiều may mắn và sức khỏe nha - Mon,12-04-2021
 
 Mình viết chương trình này trên Visual Ultimate Code 2010 nhưng mình đã cập nhật lại core của ngôn ngữ C++ mới nhất.Nên các bạn hoàn toàn có thể an tâm tải về chạy được trên Visual Studio 2019 ( phiên bản mới nhất thời điểm mình viết ) ngay nha （￣︶￣）↗　
