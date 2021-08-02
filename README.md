@@ -1,4 +1,15 @@
-# PTIT-Quan-ly-may-bay-Cau-truc-du-lieu-va-Giai-thuat-Luu-Nguyen-Ki-Thu
+<h1 align="center">Cấu Trúc Dữ Liệu & Giải Thuật</h1>
+<h2 align="center">Quản lý máy bay<h2>
+
+
+# [**Table Of Content**](#table-of-content)
+- [**Table Of Content**](#table-of-content)
+- [**Introduction**](#introduction)
+- [**Architecture**](#architecture)
+- [**Illustrating Images**](#illustrating-images)
+- [**Frequently Asked Questions**](#frequently-asked-questions)
+- [**Post Script**](#post-script)
+# [**Introduction**](#introduction)
 Mình tên là Nguyễn Thành Phong.Mã N18DCCN147.Lớp D18CQCN03-N.Khóa 2018-2023
 
 Nhắc đến học IT ở PTIT mà hông nhắc tới môn này thì thật là thiếu sót.
@@ -9,6 +20,7 @@ Chả thế mà nhiều thế hệ gắn ổng cái nick name Lưu Mãi Kì Thi 
 
 Mình chia sẻ phần đồ này hi vọng giúp các tân binh khóa sau có thể vượt qua môn này dễ nhất . Đồ án này gồm nhiều thành phần và thư viện được tích hợp thành 1 bài hoàn chỉnh
 
+# [**Architecture**](#architecture)
 Để tham khảo bài mình hiệu quả các bạn hãy đọc code theo trình tự như sau và xem hình ảnh demo để hình dung các bạn sẽ làm gì 
 ( do thời điểm mình viết là 12-04-2021 , lúc này kì 2 năm 3 rồi nên có thể không nhớ chính xác trình tự ^^ )
 
@@ -31,13 +43,7 @@ Mình chia sẻ phần đồ này hi vọng giúp các tân binh khóa sau có t
 9.ProcessionTP - phần kết của đồ án, chủ yếu làm cho màu mè chứ không có cũng chẳng sao ^^,trong này viết các hàm đọc file để hiện lên phần intro và outro cho đồ án
 nhưng thầy cũng không để ý phần này nhìu đâu nha ^^
 
-Mình hy vọng đồ án này có thể giúp các bạn khóa sau có thể vượt qua môn này dễ dàng nhất có thể ( vì môn này khó vl , mình cũng làm vỡ mặt mới qua ^^ ).
-
-Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì tương lai với ngành này của bạn rất triển vọng nha.Nhiều bạn kêu thầy khó 
-nhưng thực ra thì thầy làm vậy là tốt cho chúng mình á , các bạn đừng oán thầy nha.
-Chúc các bạn khóa sau khi đọc được bài này của mình nhiều may mắn và sức khỏe nha - Mon,12-04-2021
-
-MỘT SỐ HÌNH ẢNH MINH HỌA!
+# [**Illustrating Images**](#illustrating-images)
 
 1)Màn hình intro nè !!
 <img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_Z2FPblh3oM" src="https://user-images.githubusercontent.com/58034430/119598518-4d8ef980-be0d-11eb-9e9b-b1ddf40dc94b.png">
@@ -69,5 +75,49 @@ MỘT SỐ HÌNH ẢNH MINH HỌA!
 9)Màn hình kết thúc
 <img width="960" alt="Quan_Ly_May_Bay_-_Last_fix_iopZYOlSQ5" src="https://user-images.githubusercontent.com/58034430/119598925-1d942600-be0e-11eb-9fca-ad51b96a8d3e.png">
 
+# [**Frequently Asked Questions**](#frequently-asked-questions)
+Frequently Asked Questions hay FAQ là câu hỏi thường gặp.Mình cũng thi khá lâu rồi nhưng vẫn nhớ được một số câu hỏi
+mà thầy Lưu Nguyễn Kì Thư hay hỏi sinh viên chúng mình.Các câu hỏi của thầy sẽ đi bao gồm 4 cấp độ như sau:
+
+Cấp 1 - Nhận biết: cấp độ này siêu dễ hiểu thầy sẽ hỏi các câu hỏi như:
+
+	1.Biến nào thể hiện số lượng máy bay ?
+	2.Biến nào thể hiện số lượng hành khách ?
+	3.Số CMND|CCCD thì dùng kiểu dữ liệu là gì ?
+	..........................
+
+Cấp 2 - Thông hiểu: cấp này hỏi chủ yếu là lý thuyết
+
+	1.Giải thích danh sách liên kết là gì ?
+	2.Cây nhị phân cân bằng có cơ chế tự cân bằng số node ở 2 bên như nào ?
+	3.Sự khác biệt giữa mảng con trỏ & mảng động
+	4.Một số tính năng phụ trợ như có thể dùng phím mũi tên để di chuyển con trỏ lên xuống ở mục nhập thông tin được không ?
+	5.Trước khi kết thúc yêu cầu thêm - xóa - sửa.Các bạn nên có 1 ô thông báo để xác nhận lại: Bạn có chắc chắn muốn thay đổi không ?
+	..........................
+
+Cấp 3 - Vận dụng: thầy sẽ yêu cầu chúng ta mở đoạn code có xử lý chức năng nào đó.Ví dụ như sử lý thêm - xóa - sửa máy bay.Tiếp đến, thầy sẽ hỏi rằng:
+
+	1.Đoạn code đó có độ phức tạp là bao nhiêu ?
+	2.Có mấy vòng lặp trong đoạn code này ?
+	3.Đã bắt các ràng buộc được chưa ? Tên người thì không có số, số điện thoại thì không được ghi chữ cái,..........
+	4.Một hành khách thì không thể đồng thời mua vé của 2 chuyến bay có cùng ngày giờ khởi hành
+	5.Hai hành khách không thể cùng đặt vé vào cùng 1 chỗ(ừ thì đúng mà chẳng ai cho 2 người mua vé cùng 1 chỗ cả)
+	..........................
+
+Note: Với ý số 4 & số 5 la vô cùng QUAN TRỌNG.Nếu các bạn không bắt được tối thiểu 1 trong 2 ý này thì bài làm của các bạn sẽ bị mất rất nhiều điểm.
+
+Cấp 4 - Vận dụng cao: Cuối cùng( Yeah 😂 cuối cùng cũng sắp thoát ải  ).
+
+Thầy sẽ hỏi các bạn 1 câu siêu khó.Nếu trả lời được thì được cộng 0.5 điểm.Nếu không thì cũng không sao cả.
+Câu mình gặp mà mình vẫn nhớ đó là:
+
+    - Trình bày cách sắp xếp 20000 số tự nhiên theo thứ tự từ bé đến lớn với mảng con trỏ ?
+Câu này khó vl .Mình trả lời được 1 nửa đầu , nửa sau thì không đúng nên bị đánh hỏng😞
+# [**Post Script**](#post-script)
+Mình hy vọng đồ án này có thể giúp các bạn khóa sau có thể vượt qua môn này dễ dàng nhất có thể ( vì môn này khó vl , mình cũng làm vỡ mặt mới qua ^^ ).
+
+Nếu qua được thì xin CHÚC MỪNG BẠN vì nếu qua được môn này của thầy thì tương lai với ngành này của bạn rất triển vọng nha.Nhiều bạn kêu thầy khó 
+nhưng thực ra thì thầy làm vậy là tốt cho chúng mình á , các bạn đừng oán thầy nha.
+Chúc các bạn khóa sau khi đọc được bài này của mình nhiều may mắn và sức khỏe nha - Mon,12-04-2021
 
 Mình viết chương trình này trên Visual Ultimate Code 2010 nhưng mình đã cập nhật lại core của ngôn ngữ C++ mới nhất.Nên các bạn hoàn toàn có thể an tâm tải về chạy được trên Visual Studio 2019 ( phiên bản mới nhất thời điểm mình viết ) ngay nha （￣︶￣）↗　
