@@ -129,7 +129,7 @@ Câu này khó vl .Mình trả lời được 1 nửa đầu , nửa sau thì kh
     </td>
 </table>
 	
-Phần này mình dành riêng để gửi lời cám ơn tới bạn [Nguyễn Đăng Hậu](https://www.facebook.com/anh.nhim.50). Bạn ấy vừa là một người bạn, vừa là một người thầy đối với mình. Suốt khoảng 3 tháng,từ tháng 03-2020 đến tháng 06-2020 kể từ khi nhận đề tài từ thầy, bạn Hậu đã chỉ dạy và giúp đỡ mình trong việc sửa chữa các đoạn chương trình vô cùng chi tiết và tỉ mỉ. Nếu không có sự giúp đỡ nhiệt tình từ bạn Hậu, có lẽ mình đã không thể hoàn thiện một trong những đồ án lớn trong đời sinh viên PTIT của mình.😇😇
+Phần này mình dành riêng để gửi lời cám ơn tới bạn [Nguyễn Đăng Hậu](https://www.facebook.com/anh.nhim.50). Bạn ấy vừa là một người bạn, vừa là một người thầy đối với mình. Suốt khoảng 3 tháng, từ tháng 03-2020 đến tháng 06-2020, kể từ khi nhận đề tài từ thầy, bạn Hậu đã chỉ dạy và giúp đỡ mình trong việc sửa chữa các đoạn chương trình vô cùng chi tiết và tỉ mỉ (vì làm đề tài một mình nên hơi bị đuối nữa). Nếu không có sự giúp đỡ nhiệt tình từ bạn Hậu, có lẽ mình đã không thể hoàn thiện một trong những đồ án lớn trong đời sinh viên PTIT của mình.😇😇
 	
 Ngoài ra, nếu các bạn làm để tài về Quản lý Sinh viên thì có thể tham khảo bài của bạn Hậu tại [đây](https://github.com/ngdanghau/quanlysinhvien) nha.
 	
