@@ -8,6 +8,7 @@
 - [**Architecture**](#architecture)
 - [**Illustrating Images**](#illustrating-images)
 - [**Frequently Asked Questions**](#frequently-asked-questions)
+- [**Special Thank**](#special-thank)
 - [**Post Script**](#post-script)
 # [**Introduction**](#introduction)
 Mình tên là Nguyễn Thành Phong.Mã N18DCCN147.Lớp D18CQCN03-N.Khóa 2018-2023
@@ -113,6 +114,21 @@ Câu mình gặp mà mình vẫn nhớ đó là:
 
     - Trình bày cách sắp xếp 20000 số tự nhiên theo thứ tự từ bé đến lớn với mảng con trỏ ?
 Câu này khó vl .Mình trả lời được 1 nửa đầu , nửa sau thì không đúng nên bị đánh hỏng😞
+
+# [**Special Thank**](#special-thank) 
+
+<table>
+    <tr>
+        <td align="center">
+        <a href="https://github.com/ngdanghau">
+            <img src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t1.6435-9/120393662_2903859999844190_4330464510100415056_n.jpg?_nc_cat=111&ccb=1-4&_nc_sid=09cbfe&_nc_ohc=Ul9dkWA0uHsAX_b-LRf&_nc_ht=scontent.fsgn2-6.fna&oh=1e2dc9e54bf6464ebd8a2aed3896df48&oe=613209EA" width="100px;" alt=""/>
+            <br />
+            <sub><b> Nguyen Dang Hau </b></sub>
+        </a>
+        <br />
+    </td>
+</table>
+
 # [**Post Script**](#post-script)
 Mình hy vọng đồ án này có thể giúp các bạn khóa sau có thể vượt qua môn này dễ dàng nhất có thể ( vì môn này khó vl , mình cũng làm vỡ mặt mới qua ^^ ).
 
