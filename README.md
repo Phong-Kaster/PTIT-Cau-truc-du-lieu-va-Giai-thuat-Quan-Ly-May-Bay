@@ -101,8 +101,8 @@ Cấp 3 - Vận dụng: thầy sẽ yêu cầu chúng ta mở đoạn code có x
 	1.Đoạn code đó có độ phức tạp là bao nhiêu ?
 	2.Có mấy vòng lặp trong đoạn code này ?
 	3.Đã bắt các ràng buộc được chưa ? Tên người thì không có số, số điện thoại thì không được ghi chữ cái,..........
-	4.Một hành khách thì không thể đồng thời mua vé của 2 chuyến bay có cùng ngày giờ khởi hành
-	5.Hai hành khách không thể cùng đặt vé vào cùng 1 chỗ(ừ thì đúng mà chẳng ai cho 2 người mua vé cùng 1 chỗ cả)
+	4.Một hành khách chỉ được phép mua 1 vé duy nhất / chuyến bay.
+	5.Một hành khách không thể đặt mua vé trên 2 chuyến bay có cùng thời gian khởi hành
 	..........................
 
 Note: Với ý số 4 & số 5 la vô cùng QUAN TRỌNG.Nếu các bạn không bắt được tối thiểu 1 trong 2 ý này thì bài làm của các bạn sẽ bị mất rất nhiều điểm.
